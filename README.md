@@ -1,0 +1,2 @@
+# GuessTheFlag
+An educational game.
